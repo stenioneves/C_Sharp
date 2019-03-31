@@ -1,0 +1,11 @@
+/home/stenio/C#/interpolacao/bin/Debug/netcoreapp2.2/interpolacao.deps.json
+/home/stenio/C#/interpolacao/bin/Debug/netcoreapp2.2/interpolacao.runtimeconfig.json
+/home/stenio/C#/interpolacao/bin/Debug/netcoreapp2.2/interpolacao.runtimeconfig.dev.json
+/home/stenio/C#/interpolacao/bin/Debug/netcoreapp2.2/interpolacao.dll
+/home/stenio/C#/interpolacao/bin/Debug/netcoreapp2.2/interpolacao.pdb
+/home/stenio/C#/interpolacao/obj/Debug/netcoreapp2.2/interpolacao.csprojAssemblyReference.cache
+/home/stenio/C#/interpolacao/obj/Debug/netcoreapp2.2/interpolacao.csproj.CoreCompileInputs.cache
+/home/stenio/C#/interpolacao/obj/Debug/netcoreapp2.2/interpolacao.AssemblyInfoInputs.cache
+/home/stenio/C#/interpolacao/obj/Debug/netcoreapp2.2/interpolacao.AssemblyInfo.cs
+/home/stenio/C#/interpolacao/obj/Debug/netcoreapp2.2/interpolacao.dll
+/home/stenio/C#/interpolacao/obj/Debug/netcoreapp2.2/interpolacao.pdb
