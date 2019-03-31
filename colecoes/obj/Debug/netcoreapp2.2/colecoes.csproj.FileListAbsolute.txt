@@ -1,0 +1,11 @@
+/home/stenio/C#/colecoes/bin/Debug/netcoreapp2.2/colecoes.deps.json
+/home/stenio/C#/colecoes/bin/Debug/netcoreapp2.2/colecoes.runtimeconfig.json
+/home/stenio/C#/colecoes/bin/Debug/netcoreapp2.2/colecoes.runtimeconfig.dev.json
+/home/stenio/C#/colecoes/bin/Debug/netcoreapp2.2/colecoes.dll
+/home/stenio/C#/colecoes/bin/Debug/netcoreapp2.2/colecoes.pdb
+/home/stenio/C#/colecoes/obj/Debug/netcoreapp2.2/colecoes.csprojAssemblyReference.cache
+/home/stenio/C#/colecoes/obj/Debug/netcoreapp2.2/colecoes.csproj.CoreCompileInputs.cache
+/home/stenio/C#/colecoes/obj/Debug/netcoreapp2.2/colecoes.AssemblyInfoInputs.cache
+/home/stenio/C#/colecoes/obj/Debug/netcoreapp2.2/colecoes.AssemblyInfo.cs
+/home/stenio/C#/colecoes/obj/Debug/netcoreapp2.2/colecoes.dll
+/home/stenio/C#/colecoes/obj/Debug/netcoreapp2.2/colecoes.pdb
