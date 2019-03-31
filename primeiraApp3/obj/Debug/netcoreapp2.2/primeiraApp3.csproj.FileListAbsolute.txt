@@ -1,0 +1,11 @@
+/home/stenio/C#/primeiraApp3/bin/Debug/netcoreapp2.2/primeiraApp3.deps.json
+/home/stenio/C#/primeiraApp3/bin/Debug/netcoreapp2.2/primeiraApp3.runtimeconfig.json
+/home/stenio/C#/primeiraApp3/bin/Debug/netcoreapp2.2/primeiraApp3.runtimeconfig.dev.json
+/home/stenio/C#/primeiraApp3/bin/Debug/netcoreapp2.2/primeiraApp3.dll
+/home/stenio/C#/primeiraApp3/bin/Debug/netcoreapp2.2/primeiraApp3.pdb
+/home/stenio/C#/primeiraApp3/obj/Debug/netcoreapp2.2/primeiraApp3.csprojAssemblyReference.cache
+/home/stenio/C#/primeiraApp3/obj/Debug/netcoreapp2.2/primeiraApp3.csproj.CoreCompileInputs.cache
+/home/stenio/C#/primeiraApp3/obj/Debug/netcoreapp2.2/primeiraApp3.AssemblyInfoInputs.cache
+/home/stenio/C#/primeiraApp3/obj/Debug/netcoreapp2.2/primeiraApp3.AssemblyInfo.cs
+/home/stenio/C#/primeiraApp3/obj/Debug/netcoreapp2.2/primeiraApp3.dll
+/home/stenio/C#/primeiraApp3/obj/Debug/netcoreapp2.2/primeiraApp3.pdb
