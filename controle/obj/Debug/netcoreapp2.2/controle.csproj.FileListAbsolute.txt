@@ -1,0 +1,11 @@
+/home/stenio/C#/controle/bin/Debug/netcoreapp2.2/controle.deps.json
+/home/stenio/C#/controle/bin/Debug/netcoreapp2.2/controle.runtimeconfig.json
+/home/stenio/C#/controle/bin/Debug/netcoreapp2.2/controle.runtimeconfig.dev.json
+/home/stenio/C#/controle/bin/Debug/netcoreapp2.2/controle.dll
+/home/stenio/C#/controle/bin/Debug/netcoreapp2.2/controle.pdb
+/home/stenio/C#/controle/obj/Debug/netcoreapp2.2/controle.csprojAssemblyReference.cache
+/home/stenio/C#/controle/obj/Debug/netcoreapp2.2/controle.csproj.CoreCompileInputs.cache
+/home/stenio/C#/controle/obj/Debug/netcoreapp2.2/controle.AssemblyInfoInputs.cache
+/home/stenio/C#/controle/obj/Debug/netcoreapp2.2/controle.AssemblyInfo.cs
+/home/stenio/C#/controle/obj/Debug/netcoreapp2.2/controle.dll
+/home/stenio/C#/controle/obj/Debug/netcoreapp2.2/controle.pdb
