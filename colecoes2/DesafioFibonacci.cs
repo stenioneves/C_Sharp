@@ -17,7 +17,7 @@ namespace colecoes2{
              
 
 
-                for(int i=0;i<20;++i){//atualiza, aqui é a sacada incremento primerio.
+                for(int i=0;i<20;++i){//atualiza, aqui é a sacada incremento primerior.
                     proximo=fibonacciNumeros[fibonacciNumeros.Count-1];
                     proximo2 = fibonacciNumeros[fibonacciNumeros.Count-2];
                      fibonacciNumeros.Add(proximo+proximo2);
